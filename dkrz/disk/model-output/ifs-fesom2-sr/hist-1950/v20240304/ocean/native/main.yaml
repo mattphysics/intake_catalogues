@@ -6,7 +6,7 @@ sources:
       storage_options:
         lazy: true
         remote_protocol: file
-      urlpath: reference:://work/bm1344/DKRZ/intake_catalogues/dkrz/disk/model-output/ifs-fesom2-sr/hist-1950/v20240304/ocean/native/2D_daily_avg.parq
+      urlpath: reference:://work/bm1344/k202193/IFS-FESOM_sr/hist-1950/v20240304/ocean/native/2D_daily_avg.parq
     driver: zarr
     metadata:
       CDI: Climate Data Interface version 2.2.4 (https://mpimet.mpg.de/cdi)
@@ -74,7 +74,7 @@ sources:
       storage_options:
         lazy: true
         remote_protocol: file
-      urlpath: reference:://work/bm1344/DKRZ/intake_catalogues/dkrz/disk/model-output/ifs-fesom2-sr/hist-1950/v20240304/ocean/native/3D_daily_avg_elems.parq
+      urlpath: reference:://work/bm1344/k202193/IFS-FESOM_sr/hist-1950/v20240304/ocean/native/3D_daily_avg_elems.parq
     driver: zarr
     metadata:
       CDI: Climate Data Interface version 2.2.4 (https://mpimet.mpg.de/cdi)
@@ -128,7 +128,7 @@ sources:
       storage_options:
         lazy: true
         remote_protocol: file
-      urlpath: reference:://work/bm1344/DKRZ/intake_catalogues/dkrz/disk/model-output/ifs-fesom2-sr/hist-1950/v20240304/ocean/native/3D_daily_avg_nodes.parq
+      urlpath: reference:://work/bm1344/k202193/IFS-FESOM_sr/hist-1950/v20240304/ocean/native/3D_daily_avg_nodes.parq
     driver: zarr
     metadata:
       CDI: Climate Data Interface version 2.2.4 (https://mpimet.mpg.de/cdi)
